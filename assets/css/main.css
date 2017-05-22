@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+body{
+  margin:auto; 
+  background: #452f10;
+  font-family: 'Titillium Web', sans-serif;
+}
+.navegacion{
+    width: 100%;
+    background-color: #bd1c1c;
+    height: 70px;
+    border: 0px;
+    margin: 0px;
+}
+#nav-menu{
+    background-color: #bd1c1c;
+    color: white;
+    padding-top: 25px;
+    margin-left: 200px;
+}
+
+#nav-menu a{
+    margin-left: 40px;
+    color: #ffeea8;
+}
+
+.imagenes{
+    box-sizing: content-box;
+    height:220px;
+    width: 100%;
+    background-color: #452f10;
+    padding: 0px 0px 0px 0px;
+}
+#pandasFotos{
+    display: inline-block;
+    padding-top: 45px;
+    padding-left: 250px;
+    margin: auto;
+
+}
+#uno, #dos, #tres, #cuatro{
+    padding:20;
+    margin-right: 25px;
+    border: 3px solid white;
+    filter: grayscale(100%);
+}
+
+
+/**/
+.elementItems{
+    display: inline-block;
+    color: black;
+    background-color: #452f10;
+    width: 100%;
+    height: 50px;
+}
+#items{
+    box-sizing: border-box;
+    height: 10px;
+    width: 100%;
+    padding: 0px 0px 0px 250px ;
+    background-color: #452f10;
+}
+#origen, #extin, #restaurar {
+    background-color: #bd1c1c;
+    margin: 0px 1px;
+    padding: 4px 90px;
+    text-decoration: none;
+    color: #ffeea8;
+}
+a{
+    color: white;
+    padding: 0px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.parrafosElementos{
+    display: none;
+    margin left: 100px;
+    padding: 0px 0px 0px 230px;
+    display: inline-block;
+    background: #452f10;
+    align-content: center;
+    width: 
+    height: 258px;
+}
+#parrafElement{
+    box-sizing: border-box;
+
+}
+#texto1{
+    box-sizing: border-box;
+    float: left;
+    margin: 10px;
+    width: 400px;
+    height: 200px;
+    color: #ffeea8;
+    font-family: 'Quicksand', sans-serif;
+}
+#texto2{
+    float: right;
+    margin: 10px;
+    width: 400px;
+    height: 200px;
+    color: #ffeea8;
+    font-family: 'Quicksand', sans-serif;
+}
