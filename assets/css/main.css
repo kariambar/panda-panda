@@ -32,11 +32,11 @@ body{
     width: 100%;
     background-color: #ecd0f2;
 }
-#pandasFotos{
+#floresFotos{
     display: inline-block;
     padding-top: 45px;
     padding-left: 150px;
-    margin: auto;
+    margin-left: 50px;
 
 }
 #uno, #dos, #tres, #cuatro{
@@ -47,7 +47,7 @@ body{
 
 
 /**/
-.elementos{
+.elementItems{
     display: inline-block;
     color: black;
     background-color: #ecd0f2;
