@@ -1,19 +1,20 @@
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web');
 
 body{
+
   margin:auto; 
-  background: #452f10;
+  background: #ecd0f2;
   font-family: 'Titillium Web', sans-serif;
 }
 .navegacion{
     width: 100%;
-    background-color: #bd1c1c;
+    background-color: #f7406a;
     height: 70px;
     border: 0px;
     margin: 0px;
 }
 #nav-menu{
-    background-color: #bd1c1c;
+    background-color:#f7406a;
     color: white;
     padding-top: 25px;
     margin-left: 200px;
@@ -21,20 +22,20 @@ body{
 
 #nav-menu a{
     margin-left: 40px;
-    color: #ffeea8;
+    color: white;
+    text-decoration: none;
 }
 
 .imagenes{
     box-sizing: content-box;
     height:220px;
     width: 100%;
-    background-color: #452f10;
-    padding: 0px 0px 0px 0px;
+    background-color: #ecd0f2;
 }
 #pandasFotos{
     display: inline-block;
     padding-top: 45px;
-    padding-left: 250px;
+    padding-left: 150px;
     margin: auto;
 
 }
@@ -42,7 +43,6 @@ body{
     padding:20;
     margin-right: 25px;
     border: 3px solid white;
-    filter: grayscale(100%);
 }
 
 
@@ -50,7 +50,7 @@ body{
 .elementItems{
     display: inline-block;
     color: black;
-    background-color: #452f10;
+    background-color: #ecd0f2;
     width: 100%;
     height: 50px;
 }
@@ -59,14 +59,14 @@ body{
     height: 10px;
     width: 100%;
     padding: 0px 0px 0px 250px ;
-    background-color: #452f10;
+    background-color: #ecd0f2;
 }
 #origen, #extin, #restaurar {
-    background-color: #bd1c1c;
+    background-color: #f7406a;
     margin: 0px 1px;
     padding: 4px 90px;
     text-decoration: none;
-    color: #ffeea8;
+    color: white;
 }
 a{
     color: white;
@@ -79,7 +79,7 @@ a{
     margin left: 100px;
     padding: 0px 0px 0px 230px;
     display: inline-block;
-    background: #452f10;
+    background: #ecd0f2;
     align-content: center;
     width: 
     height: 258px;
@@ -94,7 +94,7 @@ a{
     margin: 10px;
     width: 400px;
     height: 200px;
-    color: #ffeea8;
+    color: #333131;
     font-family: 'Quicksand', sans-serif;
 }
 #texto2{
@@ -102,6 +102,6 @@ a{
     margin: 10px;
     width: 400px;
     height: 200px;
-    color: #ffeea8;
+    color: #333131;
     font-family: 'Quicksand', sans-serif;
 }
